@@ -62,5 +62,12 @@
             "category": "Clothing",
             "value": "913"
         }
+    ],
+    "category": [
+        "Food",
+        "Clothing",
+        "Housing",
+        "Healthcare",
+        "Transport"
     ]
 }
